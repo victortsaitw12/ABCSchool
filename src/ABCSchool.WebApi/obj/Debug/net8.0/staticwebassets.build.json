@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Go5ekRLhGfb08uGLi1nlGamg1GATQNCCTzhDAR2CtYI=",
+  "Source": "ABCSchool.WebApi",
+  "BasePath": "_content/ABCSchool.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

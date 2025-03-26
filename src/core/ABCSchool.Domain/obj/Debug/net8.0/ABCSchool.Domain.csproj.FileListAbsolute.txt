@@ -1,0 +1,11 @@
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\bin\Debug\net8.0\ABCSchool.Domain.deps.json
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\bin\Debug\net8.0\ABCSchool.Domain.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\bin\Debug\net8.0\ABCSchool.Domain.pdb
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.AssemblyInfo.cs
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\refint\ABCSchool.Domain.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.pdb
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ref\ABCSchool.Domain.dll

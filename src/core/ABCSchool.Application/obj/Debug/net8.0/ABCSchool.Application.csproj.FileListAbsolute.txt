@@ -1,0 +1,15 @@
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\bin\Debug\net8.0\ABCSchool.Application.deps.json
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\bin\Debug\net8.0\ABCSchool.Application.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\bin\Debug\net8.0\ABCSchool.Application.pdb
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\bin\Debug\net8.0\ABCSchool.Domain.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\bin\Debug\net8.0\ABCSchool.Domain.pdb
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.csproj.AssemblyReference.cache
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.AssemblyInfoInputs.cache
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.AssemblyInfo.cs
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.csproj.CoreCompileInputs.cache
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchoo.9537F10C.Up2Date
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\refint\ABCSchool.Application.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.pdb
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ref\ABCSchool.Application.dll

@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.WebApi\\ABCSchool.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\ABCSchool.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\ABCSchool.Infrastructure.csproj",
+        "projectName": "ABCSchool.Infrastructure",
+        "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\ABCSchool.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\victortsai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victortsai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\ABCSchool.Application.csproj": {
+                "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\ABCSchool.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Finbuckle.MultiTenant": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Finbuckle.MultiTenant.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Finbuckle.MultiTenant.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.WebApi\\ABCSchool.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.WebApi\\ABCSchool.WebApi.csproj",
+        "projectName": "ABCSchool.WebApi",
+        "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.WebApi\\ABCSchool.WebApi.csproj",
+        "packagesPath": "C:\\Users\\victortsai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victortsai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\ABCSchool.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\ABCSchool.Infrastructure\\ABCSchool.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\ABCSchool.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\ABCSchool.Application.csproj",
+        "projectName": "ABCSchool.Application",
+        "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\ABCSchool.Application.csproj",
+        "packagesPath": "C:\\Users\\victortsai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victortsai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\ABCSchool.Domain.csproj": {
+                "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\ABCSchool.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\ABCSchool.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\ABCSchool.Domain.csproj",
+        "projectName": "ABCSchool.Domain",
+        "projectPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\ABCSchool.Domain.csproj",
+        "packagesPath": "C:\\Users\\victortsai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victortsai\\Desktop\\SideProject\\abcschool\\src\\core\\ABCSchool.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victortsai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
