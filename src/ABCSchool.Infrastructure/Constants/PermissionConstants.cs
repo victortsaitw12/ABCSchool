@@ -14,6 +14,7 @@ public static class SchoolAction
     public const string Create = nameof(Create);
     public const string Update = nameof(Update);
     public const string Delete = nameof(Delete);
+    public const string RefreshToken = nameof(RefreshToken);
     public const string UpgradeSubscription = nameof(UpgradeSubscription);
 }
 
@@ -25,6 +26,7 @@ public static class SchoolFeature
     public const string UserRoles = nameof(UserRoles);
     public const string RoleClaims = nameof(RoleClaims);
     public const string Schools = nameof(Schools);
+    public const string Tokens = nameof(Tokens);
 }
 
 
@@ -63,6 +65,8 @@ public static class SchoolPermissions
         new SchoolPermission(SchoolAction.Create, SchoolFeature.Schools, "Create Schools", "Academics"),
         new SchoolPermission(SchoolAction.Update, SchoolFeature.Schools, "Update Schools", "Academics"),
         new SchoolPermission(SchoolAction.Delete, SchoolFeature.Schools, "Delete Schools", "Academics"),
+    
+        new SchoolPermission(SchoolAction.RefreshToken, SchoolFeature.Tokens, "GenerateRefresh Token", "SystemAccess", IsBasic: true),
     ];
 
     public static IReadOnlyList<SchoolPermission> All { get; } = new ReadOnlyCollection<SchoolPermission>(_allPermissions);

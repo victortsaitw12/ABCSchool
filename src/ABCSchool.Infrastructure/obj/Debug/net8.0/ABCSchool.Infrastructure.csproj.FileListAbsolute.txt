@@ -17,3 +17,4 @@ C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.Infrastructure\o
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.Infrastructure\obj\Debug\net8.0\ABCSchool.Infrastructure.pdb
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.Infrastructure\obj\Debug\net8.0\ABCSchool.Infrastructure.genruntimeconfig.cache
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.Infrastructure\obj\Debug\net8.0\ref\ABCSchool.Infrastructure.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.Infrastructure\obj\Debug\net8.0\ABCSchool.Infrastructure.sourcelink.json

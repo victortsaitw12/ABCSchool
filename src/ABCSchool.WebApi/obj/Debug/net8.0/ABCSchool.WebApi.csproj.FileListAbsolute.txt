@@ -157,3 +157,4 @@ C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.WebApi\obj\Debug
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.WebApi\obj\Debug\net8.0\ABCSchool.WebApi.pdb
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.WebApi\obj\Debug\net8.0\ABCSchool.WebApi.genruntimeconfig.cache
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.WebApi\obj\Debug\net8.0\ref\ABCSchool.WebApi.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\ABCSchool.WebApi\obj\Debug\net8.0\ABCSchool.WebApi.sourcelink.json

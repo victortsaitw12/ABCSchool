@@ -8,12 +8,15 @@
     <PackageReference Include="Finbuckle.MultiTenant" Version="8.0.0" />
     <PackageReference Include="Finbuckle.MultiTenant.AspNetCore" Version="8.0.0" />
     <PackageReference Include="Finbuckle.MultiTenant.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.11">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NSwag.AspNetCore" Version="14.3.0" />
   </ItemGroup>
 
   <PropertyGroup>

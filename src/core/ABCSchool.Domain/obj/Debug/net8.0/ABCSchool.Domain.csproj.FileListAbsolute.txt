@@ -9,3 +9,4 @@ C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\refint\ABCSchool.Domain.dll
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.pdb
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ref\ABCSchool.Domain.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Domain\obj\Debug\net8.0\ABCSchool.Domain.sourcelink.json

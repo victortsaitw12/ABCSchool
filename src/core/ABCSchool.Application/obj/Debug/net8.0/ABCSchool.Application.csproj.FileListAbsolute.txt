@@ -13,3 +13,4 @@ C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\refint\ABCSchool.Application.dll
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.pdb
 C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ref\ABCSchool.Application.dll
+C:\Users\victortsai\Desktop\SideProject\abcschool\src\core\ABCSchool.Application\obj\Debug\net8.0\ABCSchool.Application.sourcelink.json
