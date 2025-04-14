@@ -27,6 +27,8 @@ using NSwag.Generation.Processors.Security;
 using ABCSchool.Application.Features.Tenancy;
 using ABCSchool.Application.Features.Schools;
 using ABCSchool.Infrastructure.Schools;
+using ABCSchool.Application.Features.Identity.Roles;
+using ABCSchool.Application.Features.Identity.Users;
 
 namespace ABCSchool.Infrastructure;
 
@@ -115,7 +117,11 @@ public static class StartUp
             // Add default token providers for password reset, email confirmation, etc.
             .AddDefaultTokenProviders()
             .Services
-            .AddScoped<ITokenService, TokenService>();
+            .AddScoped<ITokenService, TokenService>()
+            .AddScoped<IRoleService, RoleService>()
+            .AddScoped<IUserService, UserService>()
+            .AddScoped<ICurrentUserService, CurrentUserService>()
+            .AddScoped<CurrentUserMiddleware>();
     }
 
     internal static IServiceCollection AddPermissions(this IServiceCollection services)
@@ -274,6 +280,7 @@ public static class StartUp
     {
         return app
             .UseAuthentication()
+            .UseMiddleware<CurrentUserMiddleware>()
             .UseMultiTenant()
             .UseAuthorization()
             .UseOpenApiDocumentation();
